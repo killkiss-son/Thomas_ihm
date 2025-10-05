@@ -1,2 +1,5 @@
 desktop.ini
-desktop.ini
+.vscode
+.DS_Store
+.env
+node_modules
